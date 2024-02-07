@@ -5,8 +5,8 @@ meni oldimga qoygan katta maqsadlarimddan biri kelajayda Full steck dasturchi i 
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Telegram Badge](https://img.shields.io/badge/@https://t.me/namozhon1994-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/https://t.me/namozhon1994)](https://t.me/https://t.me/namozhon1994) 
-![Instagram Badge](https://img.shields.io/badge/-https://t.me/namozhon1994-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/odiljonov__n/#)
+[![Telegram Badge](https://img.shields.io/badge/@/namozhon1994-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/https://t.me/namozhon1994)](https://t.me/https://t.me/namozhon1994) 
+![Instagram Badge](https://img.shields.io/badge//namozhon1994-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/odiljonov__n/#)
 
 ## ⚡ Technologies
 
